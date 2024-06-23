@@ -47,7 +47,7 @@ These instructions will help you set up and run the project on your local machin
     ```bash
     node index.js
 
-// test result
+#### Installation
 Test Case 1: Passed ✅
 Test Case 2: Passed ✅
 Test Case 3: Passed ✅
