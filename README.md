@@ -46,3 +46,12 @@ These instructions will help you set up and run the project on your local machin
 3. Run the test cases:
     ```bash
     node index.js
+
+    // test result
+    Test Case 1: Passed ✅
+    Test Case 2: Passed ✅
+    Test Case 3: Passed ✅
+    Test Case 4: Passed ✅
+    Test Case 5: Passed ✅
+    Test Case 6: Passed ✅
+    Test Case 7: Passed ✅
