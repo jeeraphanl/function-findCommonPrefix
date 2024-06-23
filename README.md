@@ -47,17 +47,4 @@ These instructions will help you set up and run the project on your local machin
     ```bash
     node index.js
 
-Test result
-Test Case 1: Passed ✅
-
-Test Case 2: Passed ✅
-
-Test Case 3: Passed ✅
-
-Test Case 4: Passed ✅
-
-Test Case 5: Passed ✅
-
-Test Case 6: Passed ✅
-
-Test Case 7: Passed ✅
+![Test result](test-result.png)
