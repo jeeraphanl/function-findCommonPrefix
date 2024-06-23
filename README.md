@@ -36,7 +36,7 @@ These instructions will help you set up and run the project on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/longest-common-prefix.git
+   git clone https://github.com/jeeraphanl/longest-common-prefix
    cd longest-common-prefix
 
 2. Install the dependencies
@@ -47,11 +47,11 @@ These instructions will help you set up and run the project on your local machin
     ```bash
     node index.js
 
-    // test result
-    Test Case 1: Passed ✅
-    Test Case 2: Passed ✅
-    Test Case 3: Passed ✅
-    Test Case 4: Passed ✅
-    Test Case 5: Passed ✅
-    Test Case 6: Passed ✅
-    Test Case 7: Passed ✅
+// test result
+Test Case 1: Passed ✅
+Test Case 2: Passed ✅
+Test Case 3: Passed ✅
+Test Case 4: Passed ✅
+Test Case 5: Passed ✅
+Test Case 6: Passed ✅
+Test Case 7: Passed ✅
